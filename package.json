@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-by-alex-monta-ez",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Messages random",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,10 @@
     "url": "https://github.com/AlexMG18K/random-str-msg-by-Alex-Monta-ez/issues"
   },
   "homepage": "https://github.com/AlexMG18K/random-str-msg-by-Alex-Monta-ez#readme",
+  "bin":{
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "dependencies": {
     "g": "^2.0.1"
   }
