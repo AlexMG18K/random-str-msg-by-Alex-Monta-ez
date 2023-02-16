@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-by-alex-monta-ez",
+  "version": "1.0.0",
+  "description": "Messages random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMG18K/random-str-msg-by-Alex-Monta-ez.git"
+  },
+  "keywords": [],
+  "author": "Alex Montanez <montanez375@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexMG18K/random-str-msg-by-Alex-Monta-ez/issues"
+  },
+  "homepage": "https://github.com/AlexMG18K/random-str-msg-by-Alex-Monta-ez#readme",
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
